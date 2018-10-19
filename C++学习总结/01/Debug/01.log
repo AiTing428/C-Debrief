@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  01.cpp
+e:\vsproject\c-debrief\c++学习总结\01\01.cpp(10): warning C4326: “main”的返回类型应为“int”而非“void”
+  01.vcxproj -> E:\VSProject\C-Debrief\C++学习总结\Debug\01.exe
